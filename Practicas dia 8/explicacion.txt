@@ -1,0 +1,1 @@
+Entre el color de * y de cover-box prevalece el color de cover-box ya que * se suele usar como base por lo que la de cover-box tiene prioridad al ser más especifica.
